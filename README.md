@@ -15,6 +15,8 @@ Faith, family, and systems over willpower.
 - X: [@igobyvegas](https://x.com/igobyvegas)
 - LinkedIn: [vegashampton](https://www.linkedin.com/in/vegashampton)## Hi there 👋
 
+## My Guides
+- Personal Executive Suite Set Up: https://x.com/igobyvegas/status/2114067926105948190?s=20
 <!--
 **igobyvegas/igobyvegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
