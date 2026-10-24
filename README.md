@@ -1,6 +1,6 @@
 # Hey, I'm Vegas 👋
 
-Entrepreneur in Columbia, TN. I build AI agents that handle real work in my life and business, and I share what works.
+Entrepreneur right outside of Nashville, TN. I build AI agents that handle real work in my life and business, and I share what works.
 
 ## What I'm building
 - **Quit Anything Grok Bot**: an AI accountability system built from my own 30-day quit plan (routines, a nightly journal, weekly progress reports).
