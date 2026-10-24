@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hey, I'm Vegas 👋
+
+Entrepreneur in Columbia, TN. I build AI agents that handle real work in my life and business, and I share what works.
+
+## What I'm building
+- **Quit Anything Grok Bot**: an AI accountability system built from my own 30-day quit plan (routines, a nightly journal, weekly progress reports).
+- **Lock and Key**: a private app for couples, in development.
+- **AIM Systems**: CRM, intake, and lead-gen automation for roofing companies.
+- **Locked In Daily**: daily habit content.
+
+## What I care about
+Faith, family, and systems over willpower.
+
+## Find me
+- X: [@igobyvegas](https://x.com/igobyvegas)
+- LinkedIn: [vegashampton](https://www.linkedin.com/in/vegashampton)## Hi there 👋
 
 <!--
 **igobyvegas/igobyvegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
